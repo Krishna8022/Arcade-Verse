@@ -1,0 +1,6 @@
+{
+  "name": "ArcadeVerse",
+  "description": "Your Games. Your Scores. Your Universe. Offline native Android arcade gaming hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

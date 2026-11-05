@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ArcadeVerse</string>
+    <string name="app_tagline">Your Games. Your Scores. Your Universe.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_games">Games</string>
+    <string name="nav_challenges">Challenges</string>
+    <string name="nav_achievements">Achievements</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="search_hint">Search arcade games, genres…</string>
+    <string name="featured_games">Featured Games</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="favourite_games">Favorites</string>
+    <string name="all_games">All Arcade Games</string>
+    <string name="game_categories">Categories</string>
+    <string name="play_now">Play Now</string>
+    <string name="leaderboard_title">Local Hall of Fame</string>
+    <string name="daily_challenge_title">Daily Quest</string>
+    <string name="player_level">Level</string>
+    <string name="player_xp">XP</string>
+    <string name="player_coins">Coins</string>
+</resources>
